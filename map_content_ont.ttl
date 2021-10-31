@@ -9,8 +9,7 @@
 <https://gis.lu.se/ont/map_content/> rdf:type owl:Ontology ;
                                       owl:imports <http://www.w3.org/ns/sosa/> ,
                                                   <https://gis.lu.se/ont/data_portrayal/style> ;
-                                      rdfs:comment """This is the map content ontology associated with the paper \"Narrative Cartography with Knowledge Graphs\" in Journal of Geovisualization and Spatial Analysis.
-Authors: Gengchen Mai, Weiming Huang, Ling Cai, Rui Zhu, and Ni Lao"""^^rdfs:Literal .
+                                      rdfs:comment """This is the map content ontology associated with the paper \"Narrative Cartography with Knowledge Graphs\" in Journal of Geovisualization and Spatial Analysis."""^^rdfs:Literal .
 
 #################################################################
 #    Object Properties
